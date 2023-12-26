@@ -1,0 +1,1707 @@
+{
+  "albums": {
+    "totalCount": 92,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:album:3dGtLPRCKbRmaHQS2YmdMx",
+          "name": "Joni Mitchell: Live at BBC, 9 October 1970",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:5hW4L92KnC6dX9t7tYM4Ve",
+                "profile": {
+                  "name": "Joni Mitchell"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02620579123737c59b22ac6411",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851620579123737c59b22ac6411",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273620579123737c59b22ac6411",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2023
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:0HvAo553wbaQJCMuyeZVgr",
+          "name": "Joni",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MfdeUAPPDpi4xdc1jvnwg",
+                "profile": {
+                  "name": "Meg Smith"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e026c6f82f427da05bd832676db",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048516c6f82f427da05bd832676db",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2736c6f82f427da05bd832676db",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2023
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:2silKRpakV4cbwQbUfUv2s",
+          "name": "Songs Of Joni Mitchell",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:1UeBZoxntG82iNbSws1Vhq",
+                "profile": {
+                  "name": "A Bird That Whistles"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e027bd992428623546591a58513",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048517bd992428623546591a58513",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2737bd992428623546591a58513",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 1996
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:1YTSVDA02Rm7YKZkxQrQYY",
+          "name": "Joni 75: A Joni Mitchell Birthday Celebration (Live)",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of",
+                "profile": {
+                  "name": "Various Artists"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02db02a2659d32d80ce2f11212",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851db02a2659d32d80ce2f11212",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273db02a2659d32d80ce2f11212",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2019
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:3btNe3GvlYHSzkXQo11OzM",
+          "name": "Blue",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:56cxpytHZalu41uOraqsB4",
+                "profile": {
+                  "name": "Morgan James"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e025716dbd4055abd51fef009b9",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048515716dbd4055abd51fef009b9",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2735716dbd4055abd51fef009b9",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2017
+          }
+        }
+      }
+    ]
+  },
+  "artists": {
+    "totalCount": 12,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU",
+          "profile": {
+            "name": "Jonita Gandhi"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb8ab0253f4e09d82764ee7b15",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f1788ab0253f4e09d82764ee7b15",
+                  "width": 160,
+                  "height": 160
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab676161000051748ab0253f4e09d82764ee7b15",
+                  "width": 320,
+                  "height": 320
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq",
+          "profile": {
+            "name": "Joji"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f1784111c95b5f430c3265c7304b",
+                  "width": 160,
+                  "height": 160
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab676161000051744111c95b5f430c3265c7304b",
+                  "width": 320,
+                  "height": 320
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:43NRjpCGCIj6GkhnAMdC60",
+          "profile": {
+            "name": "Joni Fatora"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb9e88a23b77b5894a6ad76552",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f1789e88a23b77b5894a6ad76552",
+                  "width": 160,
+                  "height": 160
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab676161000051749e88a23b77b5894a6ad76552",
+                  "width": 320,
+                  "height": 320
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:1K9ioYi2XAVkS3Ky53IELe",
+          "profile": {
+            "name": "Joni"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5ebb03d3e89ba5cb86796b43079",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f178b03d3e89ba5cb86796b43079",
+                  "width": 160,
+                  "height": 160
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616100005174b03d3e89ba5cb86796b43079",
+                  "width": 320,
+                  "height": 320
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is",
+          "profile": {
+            "name": "Junior H"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5ebb5ccab5d3dc10a08d89cbd76",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f178b5ccab5d3dc10a08d89cbd76",
+                  "width": 160,
+                  "height": 160
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616100005174b5ccab5d3dc10a08d89cbd76",
+                  "width": 320,
+                  "height": 320
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  },
+  "episodes": {
+    "totalCount": 1000,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:episode:7IWSbtX31r95EmNY4TrmbO",
+          "name": "Seduce and Scheme w/ KaMillion & Jonica Booth",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d9d131cbd7a36fdaa6f7b39e9",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f9d131cbd7a36fdaa6f7b39e9",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a9d131cbd7a36fdaa6f7b39e9",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 3263738
+          },
+          "releaseDate": {
+            "isoString": "2023-12-19T05:05:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d9d131cbd7a36fdaa6f7b39e9",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f9d131cbd7a36fdaa6f7b39e9",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a9d131cbd7a36fdaa6f7b39e9",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "What’s Poppin’ Con-gregation? This week, KaMillion and Jonica Booth, stars from the hit HBO show Rap Sh!t join the show. They discuss rapper Teejayx6, one of the many rappers out of Detroit who have created a sub-genre of hip-hop: scam rap. Stay Schemin’!  Recorded on Monday, December 11th, 2023.  Research by Kaelyn BrandtSources:https://www.buzzfeednews.com/article/nielaorr/drake-city-girls-summer-scammers-periodhttps://pitchfork.com/news/city-girls-jt-released-from-prison-drops-new-song-jt-first-day-out-listen/https://www.nytimes.com/interactive/2022/03/11/magazine/scam-rap.htmlhttps://www.wired.com/story/teejayx6-scam-rap/https://www.detroitnews.com/story/news/local/detroit-city/2019/03/07/feds-throw-shade-indicted-detroit-rapper-selfmade-kash/3091388002/https://www.michigandaily.com/arts/teejayx6-shittyboyz-and-rise-scam-rap/https://www.vice.com/en/article/kz4qn9/what-is-scam-rap-detroit-teejayx6-selfmade-kashhttps://www.vulture.com/2018/11/city-girls-on-scamming-drake-and-jt-going-to-prison.htmlhttps://www.thecut.com/2018/09/city-girls-are-more-like-you-than-you-think.htmlhttps://www.foxla.com/news/edd-rapper-who-bragged-about-unemployment-fraud-sentenced-to-6-years-in-prison",
+          "contentRating": {
+            "label": "EXPLICIT"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:2i2sZT5aLJh2VKDeNcaqa3",
+          "name": "#224 The Nearness of Christ in 50 Years Of Suffering, with Joni Eareckson Tada",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68df4a1d3cd3b1f6ba41f98be71",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1ff4a1d3cd3b1f6ba41f98be71",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8af4a1d3cd3b1f6ba41f98be71",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 2071991
+          },
+          "releaseDate": {
+            "isoString": "2023-11-12T20:00:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68df4a1d3cd3b1f6ba41f98be71",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1ff4a1d3cd3b1f6ba41f98be71",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8af4a1d3cd3b1f6ba41f98be71",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "At 17 years old, Joni Eareckson Tada dove into shallow water and broke her neck which left her paralyzed from the shoulders down. After 50 years of quadriplegia, Joni’s depth of faith and faithfulness to Jesus has inspired millions of people. She joins the podcast today to talk about how suffering with paralysis and chronic pain has brought her closer to Christ, and caused her to continually focus her heart on gratefulness throughout bouts of depression and despair.------------------------------------------------------------------This video is sponsored by:CARLY JEAN LOS ANGELESCarly Jean Los Angeles is a capsule clothing and lifestyle brand that exists to help women simplify their closets and feel beautiful in every season of life.Use the code, ALISA, and get 30% off your first order during November 2023!www.carlyjeanlosangeles.comSEVEN WEEKS COFFEETaste the Coffee that is Saving Lives.Use the code, ALISA, to get 10% off any product.www.sevenweekscoffee.comGOOD RANCHERSGood Ranchers: American Meat Delivered Use the code, ALISA, and get $15.00 off your first box!Also Get FREE PROTEIN FOR 1 YEAR!Go to www.goodranchers.com/alisa for more information.SOUTHERN EVANGELICAL SEMINARYSteadfast in the TruthGo to www.ses.edu/alisa for more information about Southern Evangelical Seminary and to download your free eBook. --------------------------------------------------------------------To Purchase the new CD, “Beauty from the Ash”, go to www.alisachilders.com/musicThere you can get the CD, backing tracks, string charts, rhythm charts and stems.Support us on Patreon: www.patreon.com/alisachildersTo order “Another Gospel”: www.alisachilders.com/anothergospelTo order “Live Your Truth\": www.alisachilders.com/live-your-truth-and-other-lies/For Alisa's Merch: https://alisachilders.creator-spring.comFor all links to Alisa’s recommended reading, visit the Alisa Childers Amazon Store: https://www.amazon.com/shop/alisachildersTo see what gear Alisa uses to record her podcast, go to:https://kit.co/alisachildersPotential Sponsors: https://alisachilders.com/sponsor-request-form/Product links are affiliate links which means if you buy something we'll receive a small commission.",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:5GtKKDDPVLliDwm064FpV3",
+          "name": "Dr. Joni Johnston, forensic psychologist, joins us to look at the case...",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dec77108f1dd57666042aea1c",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fec77108f1dd57666042aea1c",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aec77108f1dd57666042aea1c",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 2419332
+          },
+          "releaseDate": {
+            "isoString": "2023-08-09T04:00:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68dec77108f1dd57666042aea1c",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1fec77108f1dd57666042aea1c",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8aec77108f1dd57666042aea1c",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "In this week's episode, Dr. Joni Johnston approaches the case without any real prior knowledge of the family history, offering an objective and unbiased viewpoint regarding Grant's accident. As a seasoned forensic psychologist with extensive experience in criminal behavior analysis, Dr. Joni Johnston brings a fresh perspective to the table. SHOW NOTES AND SOURCES:https://www.coldcasefoundation.org/dr-joni-johnson.htmlhttps://www.freedom4gracie.com/https://cordellcordell.com/resources/tennessee/tennessee-child-custody-questions/#:~:text=When%20can%20my%20child%20decide,under%20the%20age%20of%2012.DISCLAIMER:The following podcast episode features commentary and insights from a licensed clinical psychologist. We would like to stress that the information provided in this episode is intended for informational and educational purposes only. It should not be considered a substitute for professional psychological advice, diagnosis, or treatment.Accuracy of Information: The information presented in this podcast episode is based on the available evidence, reports, and public records. While efforts have been made to ensure accuracy, details may be subject to errors or omissions. Listeners are encouraged to conduct their own research as well.Opinion and Speculation: Throughout the podcast, there may be instances where opinions and/or speculation are expressed regarding certain events, individuals, or circumstances. These are the personal perspectives of the podcast hosts or guests and should not be taken as conclusive or factual statements.",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:0AQq7G2kRH66GiGoDjEYO5",
+          "name": "Ep 161: The Disappearance of Marion Barter with Joni Condos, Part 8",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d25fe75f8b2b4881c941a4e9d",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f25fe75f8b2b4881c941a4e9d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a25fe75f8b2b4881c941a4e9d",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 3401874
+          },
+          "releaseDate": {
+            "isoString": "2023-12-12T08:01:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68dd5d58d4268edba12a10e6886",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1fd5d58d4268edba12a10e6886",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8ad5d58d4268edba12a10e6886",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "Laura continues her interview with Joni Condos picking up on their discussion of Ric Blum, exploring his interesting publicly documented history of criminal convictions including false documentation, theft, fraud and forgery plus details of some of the convictions and sentences surrounding these crimes.     They continue reviewing the timeline, money trail and known aliases of Ric Blum alongside his behaviour and criminal activity dating back to his teen years in the 1950’s, his changing statements when questioned and highlighting what these things show us.   Join Joni and Laura as they continue to unravel this case and share the moment Ric Blum’s “mask” comes off. You won’t want to miss this one.  If you know anything email enquiry@sallyleydon.com or go to: https://www.facebook.com/MissingMarionBarter https://www.facebook.com/TheLadyVanishes  #MarionBarter #JusticeForMarion #CrimeAnalyst #TrueCrime #Podcast  Clips https://www.youtube.com/watch?v=Kqlm11nv7bM   Thanks to Nicholas Gaspirini (Myuu) for use of Keep Going: https://www.youtube.com/watch?v=HgeJDSUchWY   Sources The Lady Vanishes podcast: The Lady Vanishes on Apple Podcasts The Lady Vanishes Facebook: https://www.facebook.com/TheLadyVanishes https://www.theguardian.com/australia-news/2023/jun/01/lonely-hearts-ad-led-another-woman-to-key-witness-in-marion-barters-disappearance-inquest-hears NSW Police: https://www.police.nsw.gov.au/can_you_help_us/rewards/500000_reward/suspicious_disappearance_of_marion_barter  Sponsors At StoryWorth.com/crimeanalyst and save $10 on your first purchase!  You can get an exclusive 20% off your first order at thrivecausemetics.com/CRIMEANALYST   Visit DRINKHAPPYVIKING.COM and use code CRIME for 20% off your first purchase.   Go to HelloFresh.com/crimeanalystfree and use code crimeanalystfree for FREE breakfast for life! One breakfast item per box while subscription is active.   To learn more about microdosing THC go to Microdose.com and use code: CRIMEANALYST to get free shipping & 30% off your first order.   YouTube, Socials and Website YouTube @crimeanalyst Instagram @crimeanalyst @laurarichards999 Twitter @thecrimeanalyst @laurarichards999 TikTok @crimeanalystpod Website www.crime-analyst.com Crime Analyst Merch https://crime-analyst.myshopify.com/ Leave a Review https://www.crime-analyst.com/reviews/new/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:27j98DsjZxzgqp6VTiuiDS",
+          "name": "Joni Mitchell - Both Sides Now ",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3394c893c2bed011a45ef70c",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3394c893c2bed011a45ef70c",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3394c893c2bed011a45ef70c",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 482821
+          },
+          "releaseDate": {
+            "isoString": "2021-03-21T18:00:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d83593e3b453fdba45288d218",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f83593e3b453fdba45288d218",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a83593e3b453fdba45288d218",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "Poema de Silvina Ocampo – Espera  Cruel es la noche y dura cuando aguardo tu vuelta al acecho de un paso, del ruido de la puerta que se abre, de la llave que agitas en la mano cuando espero que llegues y que tardas tanto.  Crueles son en las calles los rumores de coches que me dan sueño cuando estoy junto a tus ojos.  Cruel es la lluvia suave, furiosa que fascina las enormes tormentas, las nubes con sus islas cuando espero que llegues y que el reloj enclava sus manecillas de oro en el corazón ávido.  Cruel es que todo sea precioso hasta el retorno de la espera, y el lento padecer del amor.  Cruel es rezar sin tregua la promesa olvidada de volver a ser buena, de sentir que redime estar bien preparada sólo para la dicha.  Cruel es la luz, perfecta, de la luna y del alba el alma de las horas sobre el campo y el mar y crueles son los libros, la voluptuosa música, hasta la anomalía de las caras etruscas.  Y es cruel aún después tener que ser humana no convertirme, al verte, en perro, de alegría.  #shotDeInspiracion #diaDeTregua #carolinaAmoroso",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      }
+    ]
+  },
+  "genres": {
+    "totalCount": 0,
+    "items": []
+  },
+  "playlists": {
+    "totalCount": 9,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1E4BlQGDHW4jUP",
+          "name": "Joni Mitchell Radio",
+          "description": "With Carole King, Joan Armatrading, Rickie Lee Jones and more",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/5hW4L92KnC6dX9t7tYM4Ve/en",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:2YfQ2uRZTQoJys5kLHrL8i",
+          "name": "Joni Mitchell: Greatest Hits Vol 1",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020058fcf8f649ae1b05f6c163ab67616d00001e0256444b01f4852b7830dc581eab67616d00001e02b4844a368bd9679f1db5a4fbab67616d00001e02e9f77be85457110ebf304da7",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020058fcf8f649ae1b05f6c163ab67616d00001e0256444b01f4852b7830dc581eab67616d00001e02b4844a368bd9679f1db5a4fbab67616d00001e02e9f77be85457110ebf304da7",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020058fcf8f649ae1b05f6c163ab67616d00001e0256444b01f4852b7830dc581eab67616d00001e02b4844a368bd9679f1db5a4fbab67616d00001e02e9f77be85457110ebf304da7",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Happynotes"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:2cGHxUq3jVu9RcXEJ3CnZU",
+          "name": "joni mitchell christmas season",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84c6828a739f9a0f16db542e22",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "jared"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:6TmOWmTATBYwPvkmk4Ejki",
+          "name": "Joni Mitchell – Hits",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0206e00756085191abc01e4cf0ab67616d00001e028c15ee762e118c632f170ccfab67616d00001e02a32339b8818323380682a889ab67616d00001e02afb855e6461310dff4046c56",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0206e00756085191abc01e4cf0ab67616d00001e028c15ee762e118c632f170ccfab67616d00001e02a32339b8818323380682a889ab67616d00001e02afb855e6461310dff4046c56",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0206e00756085191abc01e4cf0ab67616d00001e028c15ee762e118c632f170ccfab67616d00001e02a32339b8818323380682a889ab67616d00001e02afb855e6461310dff4046c56",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "dpink53"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:4WoM5YBmpFB8C6GadE7hcF",
+          "name": "River - Joni Mitchell",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02417ceff40a47cccfcb3de451ab67616d00001e024e6710f9cfa4cdc5afa61390ab67616d00001e028d3006aa77be100a91bd637aab67616d00001e028f0e4f832dfe1840169c8009",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02417ceff40a47cccfcb3de451ab67616d00001e024e6710f9cfa4cdc5afa61390ab67616d00001e028d3006aa77be100a91bd637aab67616d00001e028f0e4f832dfe1840169c8009",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02417ceff40a47cccfcb3de451ab67616d00001e024e6710f9cfa4cdc5afa61390ab67616d00001e028d3006aa77be100a91bd637aab67616d00001e028f0e4f832dfe1840169c8009",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "aqsa"
+          }
+        }
+      }
+    ]
+  },
+  "podcasts": {
+    "totalCount": 585,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:show:2acLSbsWg4cJ8MloiDTLun",
+          "name": "Joni Table Talk Podcast (audio)",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d4bb7f15e261c80d9160621e4",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f4bb7f15e261c80d9160621e4",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a4bb7f15e261c80d9160621e4",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Daystar Television Network"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:4LY6bzzACWTeRwzXL3nKnf",
+          "name": "A Moment with Joni Eareckson Tada",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1496d2af6098504aaf549feb",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1496d2af6098504aaf549feb",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1496d2af6098504aaf549feb",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Joni and Friends, Joni Eareckson Tada"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:32KcqO1SrOSh8zN0tFPMkS",
+          "name": "Joni and Friends Ministry Podcast",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1da7590b6402351f56f034b8",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1da7590b6402351f56f034b8",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1da7590b6402351f56f034b8",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Joni and Friends"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:2HWFi1uN1ia75yISn2WPzg",
+          "name": "Build Your Bakery Podcast with Jonica Thompson | Turn Your Baking Skills into a Profitable Business!",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dc4956c3b3eae4a47914551ea",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fc4956c3b3eae4a47914551ea",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ac4956c3b3eae4a47914551ea",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Jonica Thompson "
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:6NRp5L7n5KmQT0bmmGSCca",
+          "name": "Mrs Nostalgic",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d5709e548503d6e711e50c16d",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f5709e548503d6e711e50c16d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a5709e548503d6e711e50c16d",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Jonina Bruin"
+          },
+          "mediaType": "AUDIO"
+        }
+      }
+    ]
+  },
+  "topResults": {
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:track:15i8ObP6TBxuvZQkPxuYEl",
+          "id": "15i8ObP6TBxuvZQkPxuYEl",
+          "name": "What Jhumka ? - Club Mix",
+          "albumOfTrack": {
+            "uri": "spotify:album:5vqZnWPrz6ogDrehHz6ADv",
+            "name": "What Jhumka ? (Club Mix)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02754da57798efae2b1b0eac75",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851754da57798efae2b1b0eac75",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273754da57798efae2b1b0eac75",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "5vqZnWPrz6ogDrehHz6ADv",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/5vqZnWPrz6ogDrehHz6ADv?si=4KCaudfvRiatYwn80dECIQ"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw",
+                "profile": {
+                  "name": "Arijit Singh"
+                }
+              },
+              {
+                "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU",
+                "profile": {
+                  "name": "Jonita Gandhi"
+                }
+              },
+              {
+                "uri": "spotify:artist:5Uvn1P3OFu268QovsUAnDu",
+                "profile": {
+                  "name": "Madan Mohan"
+                }
+              },
+              {
+                "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU",
+                "profile": {
+                  "name": "Pritam"
+                }
+              },
+              {
+                "uri": "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx",
+                "profile": {
+                  "name": "Amitabh Bhattacharya"
+                }
+              },
+              {
+                "uri": "spotify:artist:34FWwKzDgtoz5pofY1PgY4",
+                "profile": {
+                  "name": "DJ Vaggy"
+                }
+              },
+              {
+                "uri": "spotify:artist:4Knks5SEy3QbGpnUg7KmDq",
+                "profile": {
+                  "name": "DJ Mons"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "duration": {
+            "totalMilliseconds": 142903
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:0PKFOLhIEdzrjJPhbwjhWY",
+          "id": "0PKFOLhIEdzrjJPhbwjhWY",
+          "name": "River",
+          "albumOfTrack": {
+            "uri": "spotify:album:5enRgXVQGwNLYVJMefFTSI",
+            "name": "A Christmas Memory",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02417ceff40a47cccfcb3de451",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851417ceff40a47cccfcb3de451",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273417ceff40a47cccfcb3de451",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "5enRgXVQGwNLYVJMefFTSI",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/5enRgXVQGwNLYVJMefFTSI?si=tLYneb0hTrKA1eu9U7yJ4w"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:5hW4L92KnC6dX9t7tYM4Ve",
+                "profile": {
+                  "name": "Joni Mitchell"
+                }
+              },
+              {
+                "uri": "spotify:artist:0aRduwTW4nz7HgkfRxGFiC",
+                "profile": {
+                  "name": "Meral Guneyman"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "duration": {
+            "totalMilliseconds": 221040
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:629lImbSWXreL59tuvaDIK",
+          "id": "629lImbSWXreL59tuvaDIK",
+          "name": "What Jhumka - Lofi Beat",
+          "albumOfTrack": {
+            "uri": "spotify:album:01lMVOmwcsxlQX1VC1yYrf",
+            "name": "What Jhumka (Lofi Beat)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02de68367c1516baa5dd50383a",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851de68367c1516baa5dd50383a",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273de68367c1516baa5dd50383a",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "01lMVOmwcsxlQX1VC1yYrf",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/01lMVOmwcsxlQX1VC1yYrf?si=-rQPe-nJRx6VLQvDgHiQ1g"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw",
+                "profile": {
+                  "name": "Arijit Singh"
+                }
+              },
+              {
+                "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU",
+                "profile": {
+                  "name": "Jonita Gandhi"
+                }
+              },
+              {
+                "uri": "spotify:artist:0lMa3YTHqQnDDTBaxAV7LK",
+                "profile": {
+                  "name": "Ranveer Singh"
+                }
+              },
+              {
+                "uri": "spotify:artist:5Uvn1P3OFu268QovsUAnDu",
+                "profile": {
+                  "name": "Madan Mohan"
+                }
+              },
+              {
+                "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU",
+                "profile": {
+                  "name": "Pritam"
+                }
+              },
+              {
+                "uri": "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx",
+                "profile": {
+                  "name": "Amitabh Bhattacharya"
+                }
+              },
+              {
+                "uri": "spotify:artist:4nrzV0KNK93wplq40UzfkW",
+                "profile": {
+                  "name": "Mann Taneja"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "duration": {
+            "totalMilliseconds": 161333
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU",
+          "profile": {
+            "name": "Jonita Gandhi"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb8ab0253f4e09d82764ee7b15",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f1788ab0253f4e09d82764ee7b15",
+                  "width": 160,
+                  "height": 160
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab676161000051748ab0253f4e09d82764ee7b15",
+                  "width": 320,
+                  "height": 320
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1E4BlQGDHW4jUP",
+          "name": "Joni Mitchell Radio",
+          "description": "With Carole King, Joan Armatrading, Rickie Lee Jones and more",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/5hW4L92KnC6dX9t7tYM4Ve/en",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      }
+    ],
+    "featured": [
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DZ06evNZVNNrf",
+          "name": "This Is Jonita Gandhi",
+          "description": "This is Jonita Gandhi. The essential tracks, all in one playlist.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evNZVNNrf-default.jpg",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1E4CTVaqgIEt3u",
+          "name": "Jonita Gandhi Radio",
+          "description": "With Akriti Kakar, Nikhita Gandhi, Prajakta Shukre and more",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/00sCATpEvwH48ays7PlQFU/en",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      }
+    ]
+  },
+  "tracks": {
+    "totalCount": 127,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:track:15i8ObP6TBxuvZQkPxuYEl",
+          "id": "15i8ObP6TBxuvZQkPxuYEl",
+          "name": "What Jhumka ? - Club Mix",
+          "albumOfTrack": {
+            "uri": "spotify:album:5vqZnWPrz6ogDrehHz6ADv",
+            "name": "What Jhumka ? (Club Mix)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02754da57798efae2b1b0eac75",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851754da57798efae2b1b0eac75",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273754da57798efae2b1b0eac75",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "5vqZnWPrz6ogDrehHz6ADv",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/5vqZnWPrz6ogDrehHz6ADv?si=f9qVp5oKQbiKj_ybx6ELcA"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw",
+                "profile": {
+                  "name": "Arijit Singh"
+                }
+              },
+              {
+                "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU",
+                "profile": {
+                  "name": "Jonita Gandhi"
+                }
+              },
+              {
+                "uri": "spotify:artist:5Uvn1P3OFu268QovsUAnDu",
+                "profile": {
+                  "name": "Madan Mohan"
+                }
+              },
+              {
+                "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU",
+                "profile": {
+                  "name": "Pritam"
+                }
+              },
+              {
+                "uri": "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx",
+                "profile": {
+                  "name": "Amitabh Bhattacharya"
+                }
+              },
+              {
+                "uri": "spotify:artist:34FWwKzDgtoz5pofY1PgY4",
+                "profile": {
+                  "name": "DJ Vaggy"
+                }
+              },
+              {
+                "uri": "spotify:artist:4Knks5SEy3QbGpnUg7KmDq",
+                "profile": {
+                  "name": "DJ Mons"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "duration": {
+            "totalMilliseconds": 142903
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:0PKFOLhIEdzrjJPhbwjhWY",
+          "id": "0PKFOLhIEdzrjJPhbwjhWY",
+          "name": "River",
+          "albumOfTrack": {
+            "uri": "spotify:album:5enRgXVQGwNLYVJMefFTSI",
+            "name": "A Christmas Memory",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02417ceff40a47cccfcb3de451",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851417ceff40a47cccfcb3de451",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273417ceff40a47cccfcb3de451",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "5enRgXVQGwNLYVJMefFTSI",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/5enRgXVQGwNLYVJMefFTSI?si=iZ3ScLhuTCGRzVomNxyNfw"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:5hW4L92KnC6dX9t7tYM4Ve",
+                "profile": {
+                  "name": "Joni Mitchell"
+                }
+              },
+              {
+                "uri": "spotify:artist:0aRduwTW4nz7HgkfRxGFiC",
+                "profile": {
+                  "name": "Meral Guneyman"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "duration": {
+            "totalMilliseconds": 221040
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:629lImbSWXreL59tuvaDIK",
+          "id": "629lImbSWXreL59tuvaDIK",
+          "name": "What Jhumka - Lofi Beat",
+          "albumOfTrack": {
+            "uri": "spotify:album:01lMVOmwcsxlQX1VC1yYrf",
+            "name": "What Jhumka (Lofi Beat)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02de68367c1516baa5dd50383a",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851de68367c1516baa5dd50383a",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273de68367c1516baa5dd50383a",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "01lMVOmwcsxlQX1VC1yYrf",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/01lMVOmwcsxlQX1VC1yYrf?si=3OE9ybdISTmEp3NO6hutZQ"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw",
+                "profile": {
+                  "name": "Arijit Singh"
+                }
+              },
+              {
+                "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU",
+                "profile": {
+                  "name": "Jonita Gandhi"
+                }
+              },
+              {
+                "uri": "spotify:artist:0lMa3YTHqQnDDTBaxAV7LK",
+                "profile": {
+                  "name": "Ranveer Singh"
+                }
+              },
+              {
+                "uri": "spotify:artist:5Uvn1P3OFu268QovsUAnDu",
+                "profile": {
+                  "name": "Madan Mohan"
+                }
+              },
+              {
+                "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU",
+                "profile": {
+                  "name": "Pritam"
+                }
+              },
+              {
+                "uri": "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx",
+                "profile": {
+                  "name": "Amitabh Bhattacharya"
+                }
+              },
+              {
+                "uri": "spotify:artist:4nrzV0KNK93wplq40UzfkW",
+                "profile": {
+                  "name": "Mann Taneja"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "duration": {
+            "totalMilliseconds": 161333
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:5EsPLgSs1UQIDJG0U00RuJ",
+          "id": "5EsPLgSs1UQIDJG0U00RuJ",
+          "name": "Both Sides Now",
+          "albumOfTrack": {
+            "uri": "spotify:album:5fcf8tnmdlxSKXkYUkzQBN",
+            "name": "Feathers.",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02699c4505f889529b26173787",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851699c4505f889529b26173787",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273699c4505f889529b26173787",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "5fcf8tnmdlxSKXkYUkzQBN",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/5fcf8tnmdlxSKXkYUkzQBN?si=6mIp1t4lRVybDgt25rYt-w"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:5hW4L92KnC6dX9t7tYM4Ve",
+                "profile": {
+                  "name": "Joni Mitchell"
+                }
+              },
+              {
+                "uri": "spotify:artist:32sRUmHjDQrKcJWgnKJmJI",
+                "profile": {
+                  "name": "Jeanette Lindström"
+                }
+              },
+              {
+                "uri": "spotify:artist:1DS1wubFnTOJQxtX1CeYGo",
+                "profile": {
+                  "name": "Steve Dobrogosz"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "duration": {
+            "totalMilliseconds": 325600
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:1UDFP4KgbKTu0XniQImZfq",
+          "id": "1UDFP4KgbKTu0XniQImZfq",
+          "name": "Joni",
+          "albumOfTrack": {
+            "uri": "spotify:album:0HvAo553wbaQJCMuyeZVgr",
+            "name": "Joni",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e026c6f82f427da05bd832676db",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048516c6f82f427da05bd832676db",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2736c6f82f427da05bd832676db",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "0HvAo553wbaQJCMuyeZVgr",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/0HvAo553wbaQJCMuyeZVgr?si=5NcsP8M_RzWokaLonNufFA"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MfdeUAPPDpi4xdc1jvnwg",
+                "profile": {
+                  "name": "Meg Smith"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "duration": {
+            "totalMilliseconds": 230703
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      }
+    ]
+  },
+  "users": {
+    "totalCount": 6,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:user:sqoqfwkk1toyg2po59q4x9q86",
+          "id": "sqoqfwkk1toyg2po59q4x9q86",
+          "displayName": "Joni",
+          "username": "sqoqfwkk1toyg2po59q4x9q86",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82fb96540648c61f473e2f5c41",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85fb96540648c61f473e2f5c41"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:u7f1pe3rasq12krxhs4xv8hew",
+          "id": "u7f1pe3rasq12krxhs4xv8hew",
+          "displayName": "Joni*_*",
+          "username": "u7f1pe3rasq12krxhs4xv8hew",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b823a93e5da7b33590135744cfc",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee853a93e5da7b33590135744cfc"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:upkkrbt0u6ciby2dqqt6f0skm",
+          "id": "upkkrbt0u6ciby2dqqt6f0skm",
+          "displayName": "Joni 28",
+          "username": "upkkrbt0u6ciby2dqqt6f0skm",
+          "image": {
+            "smallImageUrl": null,
+            "largeImageUrl": null
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:3qttix1az3m23ihcn5f8mjaq5",
+          "id": "3qttix1az3m23ihcn5f8mjaq5",
+          "displayName": "JONIX",
+          "username": "3qttix1az3m23ihcn5f8mjaq5",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82e84a4af42fca5d8989c26731",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85e84a4af42fca5d8989c26731"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:0syr6pbyt0rgsshkbgk83otm2",
+          "id": "0syr6pbyt0rgsshkbgk83otm2",
+          "displayName": "Joni🤪&Matteo",
+          "username": "0syr6pbyt0rgsshkbgk83otm2",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82341adfea7acf22921212bf90",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85341adfea7acf22921212bf90"
+          }
+        }
+      }
+    ]
+  }
+}

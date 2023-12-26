@@ -1,9 +1,16 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css'
+import { Routes, Route } from 'react-router-dom'
+import { HOME } from './pages/ExpoPage';
+
 
 function App(props) {
+
   return (
     <div>
-      Hello app
+      <Routes>
+        <Route path="/" element={<HOME />} />
+      </Routes>
     </div>
   );
 }
