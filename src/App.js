@@ -1,7 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import { Routes, Route } from 'react-router-dom'
-import { HOME } from './pages/ExpoPage';
+import { HOME } from './components/pages/ExpoPage';
 
 
 function App(props) {
