@@ -32,7 +32,7 @@ function Home(props) {
             <div className='w-full h-[85%] flex items-center justify-between gap-1'>
                 <div className='w-[29%] h-full bg-[#000] rounded-lg p-[2px]'>
                     <SIDEBAR />
-                    <audio controls src="https://i.scdn.co/image/ab67616d00001e027bb02ff43c9f221d8700a2f0"></audio>
+                    <audio controls src="https://p.scdn.co/mp3-preview/1d53b96abb564f9ba08427c3c5361dd8fbe72f7d?cid=d8a5ed958d274c2e8ee717e6a4b0971d"></audio>
 
                 </div>
                 <div className='w-[73%] h-full overflow-auto bg-green-400 flex items-center justify-between flex-col'>
