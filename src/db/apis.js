@@ -1,0 +1,1 @@
+export const API_URL = 'https://spotify23.p.rapidapi.com/'
