@@ -2,9 +2,57 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url("https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300;400;500;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,900;1,9..40,300;1,9..40,400;1,9..40,500;1,9..40,600;1,9..40,700;1,9..40,900&display=swap");
+
 * {
   margin: 0;
   padding: 0;
-  font-family: "Gothic A1", sans-serif;
+  font-family: "DM Sans", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.transitionHover {
+  transition-duration: 0.8s;
+}
+
+*::selection {
+  background-color: darkgoldenrod;
+  color: white;
+}
+
+*::-webkit-scrollbar {
+  display: block;
+}
+
+*::-webkit-scrollbar {
+  width: 3px;
+  height: 8px;
+  background-color: #000;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: rgb(40, 36, 45);
+  border-radius: 10px;
+}
+
+.bgcolorfon {
+  background: linear-gradient(
+    180deg,
+    #222 0%,
+    #1f1f1f 11.64%,
+    #171717 25.66%,
+    #161616 32.94%,
+    #151515 35.98%,
+    #131313 44.89%,
+    #121212 55.22%,
+    #121212 75.34%,
+    #121212 85.45%,
+    rgba(18, 18, 18, 0) 100%
+  );
 }
