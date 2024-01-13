@@ -8,4 +8,4 @@ function Search(props) {
     );
 }
 
-export default Search;
+export default Search
